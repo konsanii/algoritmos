@@ -1,4 +1,4 @@
-idade = input("qual sua idade")
+idade = int(input("qual sua idade"))
 if idade >= 18:
     print("vc ja é de maior")
 else:
