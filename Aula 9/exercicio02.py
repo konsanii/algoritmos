@@ -1,0 +1,5 @@
+lista = list(range(5))
+v=max(lista)
+print(f"o valor maximo e :",v)
+x=lista.index(v)
+print(f"sua posiçao e ",x)
